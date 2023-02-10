@@ -1,6 +1,8 @@
 # local-chat-socket-python
 Server and Client code for a local chatting service using TCP.
 
+You will need to first run the server and then run the client.
+
 
 This is an example of the response of the script:
 
